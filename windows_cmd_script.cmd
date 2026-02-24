@@ -78,3 +78,16 @@ doskey /history
 dir
 
 
+:: Delete a file
+:: del .2_relating.sql.swp
+
+
+:: Copy file
+:: copy <source_path\filename> <destination_path>
+
+
+:: Move a file
+:: move [options] <source> <destination>
+
+
+

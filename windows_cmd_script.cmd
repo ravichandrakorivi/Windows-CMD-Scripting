@@ -22,8 +22,16 @@ REM Type <filename>.cmd
 
 echo Hello World
 
+
+:: Shortcuts
 :: To move the cursor to the end of the command, press "end" key
 :: To move the cursor to the beginning of the command, press "home" key
+
+:: You can delete the entire command line in Windows Command Prompt using:
+:: Press the Esc key
+:: Use the Ctrl + C
+
+
 
 
 :: Present working directory
